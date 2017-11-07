@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "GOL.data.unityweb",
+"asmCodeUrl": "GOL.asm.code.unityweb",
+"asmMemoryUrl": "GOL.asm.memory.unityweb",
+"asmFrameworkUrl": "GOL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
